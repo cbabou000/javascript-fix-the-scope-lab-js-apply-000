@@ -10,7 +10,7 @@ function yourAnimal(animal) {
   // P.S.: You can't just hard-code 'cat' below
   
   
-  return animal === 'cat'
+  return myAnimal
 }
 
 function add2(n) {
