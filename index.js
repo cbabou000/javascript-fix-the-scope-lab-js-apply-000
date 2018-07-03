@@ -10,7 +10,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   
   
-  return animal = "cat"
+  return animal = "cat";
 }
 
 function add2(n) {
@@ -21,7 +21,7 @@ function add2(n) {
   // Feel free to move things around!
 }
 
-var funkyFunction = "FUNKY"
+var funkyFunction = "FUNKY!"
   function theFunk() {
     return funkyFunction
   
